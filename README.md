@@ -9,6 +9,9 @@
 ![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucas-gomes-santana&show_icons=true&theme=radical)
 
 
-<h3></h3>
+# Linguagens de Programação
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-gomes-santana&theme=radical&hide=html)
+Aqui estão todas as linguagens de programação que eu utilizo nos meus repositórios:
+
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-gomes-santana&theme=radical&hide=html)
+
