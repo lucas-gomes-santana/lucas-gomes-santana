@@ -8,6 +8,7 @@
 
 ![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucas-gomes-santana&show_icons=true&theme=radical)
 
+<hr>
 <br>
 
 <h3>Tecnologias que eu utilizo</h3>
