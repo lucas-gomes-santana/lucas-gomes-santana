@@ -24,5 +24,6 @@ My main email: ls7128387@gmail.com
 My Cell Phone Number: +55 (75) 99245-9695  
 
 <p>You can also click here</p>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucas-gomes-77892a343/)
 
