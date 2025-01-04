@@ -8,7 +8,7 @@
 
 <h3>My GitHub Stats</h3>
 
-![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucas-gomes-santana&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=lucas-gomes-santana&show_icons=true&theme=radical)
 
 <hr>
 
@@ -20,7 +20,7 @@
 
 <h3>My main programming languagues</h3>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuUsuario&layout=compact&theme=radical)
+![Most used programming languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-gomes-santana&layout=compact&theme=radical)
 
 <hr>
 
