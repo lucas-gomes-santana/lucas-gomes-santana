@@ -27,5 +27,6 @@ My Cell Phone Number: +55 (75) 99245-9695
 
 <h3>Click here to visit my LinkedIn profile</h3>
 
-<a target="_blank" href="https://www.linkedin.com/in/lucas-gomes-77892a343/"><img width="90px" src="https://store-images.s-microsoft.com/image/apps.46485.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.df3dbdf7-e6b9-4d2a-a5ad-3b91e430d172"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/lucas-gomes-77892a343/">
+<img width="90px" src="https://store-images.s-microsoft.com/image/apps.46485.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.df3dbdf7-e6b9-4d2a-a5ad-3b91e430d172"></a>
 
