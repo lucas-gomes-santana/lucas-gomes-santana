@@ -2,8 +2,6 @@
 
 <h2 style="text-align:center;">Hello! This is my profile</h2>
 
-<hr>
-
 <p>Hi! My name is Lucas Gomes Santana.I'm a high school studant who discover the world of programming in the first year of the IT intership(My school offers techical courses integrated into the high school curriculum).Since then,i started study about the area for my own and my objective is become a full-stack developer</p>
 
 <hr>
