@@ -18,6 +18,12 @@
 
 <hr>
 
+<h3>My main programming languagues</h3>
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuUsuario&layout=compact&theme=radical)
+
+<hr>
+
 <h3>Make contact with me using these methods below</h3>
 
 My main email: ls7128387@gmail.com            
