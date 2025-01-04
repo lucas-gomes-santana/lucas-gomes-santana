@@ -32,5 +32,5 @@ My Cell Phone Number: +55 (75) 99245-9695
 
 <hr>
 
-<p style="font-size=20px;">I'm open to jobs,interships or freelance services in this area</p>
+<p>I'm open to jobs,interships or freelance services in this area</p>
 
