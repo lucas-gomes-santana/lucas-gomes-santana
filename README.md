@@ -8,7 +8,7 @@
 
 <h3>My GitHub Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=lucas-gomes-santana&show_icons=true&theme=radical)
+
 
 <hr>
 
