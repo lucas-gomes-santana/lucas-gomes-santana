@@ -20,7 +20,7 @@
 
 <h3>My main programming languagues</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-gomes-santana&layout=compact&theme=radical)
+
 
 <hr>
 
