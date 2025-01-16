@@ -25,7 +25,7 @@
 
 <hr>
 
-<h3>Make contact with me using these methods below</h3> <img width="40px" src="https://e7.pngegg.com/pngimages/620/23/png-clipart-phone-phone-thumbnail.png">
+<h3>Make contact with me using these methods below ><img width="40px" src="https://e7.pngegg.com/pngimages/620/23/png-clipart-phone-phone-thumbnail.png"></h3>
 
 My main email: ls7128387@gmail.com            
 My Cell Phone Number: +55 (75) 99245-9695  
