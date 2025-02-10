@@ -26,7 +26,7 @@
 
 <h3>Make contact with me using these methods below</h3>
 
-My main email: ls7128387@gmail.com            
+My main email: ls8294921@gmail.com            
 My Cell Phone Number: +55 (75) 99245-9695  
 
 <hr>
