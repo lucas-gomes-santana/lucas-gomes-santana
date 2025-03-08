@@ -1,6 +1,6 @@
-# Lucas-Gomes-Santana
+# Lucas Gomes Santana GitHub Profile
 
-<h2>Hello! This is my GitHub profile</h2>
+<h2>Hello! This is my GitHub profile!</h2>
 
 <br>
 
