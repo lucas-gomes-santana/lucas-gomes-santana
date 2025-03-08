@@ -1,6 +1,6 @@
 # Lucas-Gomes-Santana
 
-<h2 style="text-align:center;">Hello! This is my GitHub profile</h2>
+<h2>Hello! This is my GitHub profile</h2>
 
 <p>Hi! My name is Lucas Gomes Santana.I am 17 years old,and i am high school studant who discover the world of programming in the first year of the IT intership(My school offers techical courses integrated into the high school curriculum).Since then,i started study about the area for my own and my objective is become a full-stack developer</p>
 
@@ -31,7 +31,7 @@ My Cell Phone Number: +55 (75) 99245-9695
 
 <hr>
 
-<h3>Click here to visit my LinkedIn profile</h3>
+<h3>Click here to visit my LinkedIn profile:</h3>
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/lucas-gomes-77892a343/">
 <img width="60px" src="https://store-images.s-microsoft.com/image/apps.46485.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.df3dbdf7-e6b9-4d2a-a5ad-3b91e430d172"></a>
