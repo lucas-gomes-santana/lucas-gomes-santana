@@ -1,6 +1,6 @@
 # Lucas Gomes Santana GitHub Profile
 
-<p>Hi! My name is Lucas Gomes Santana.I am 17 years old,and i am high school studant who discover the world of programming in the first year of the IT intership(My school offers techical courses integrated into the high school curriculum).Since then,i started study about the area for my own and my objective is become a full-stack developer</p>
+<p>Hi! My name is Lucas Gomes Santana.I am 17 years old,and i am high school studant who discover the world of programming in the first year of the IT intership(My school offers techical courses integrated into the high school curriculum).Since then,i started study about the area for my own and my objective is become a Full-Stack Developer.</p>
 
 <hr>
 
