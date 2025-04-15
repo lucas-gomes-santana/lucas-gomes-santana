@@ -37,5 +37,5 @@ My Cell Phone Number: +55 (75) 99245-9695
 <h4>Or click here to visit my portifolio: <a href="https://portifolio-project-xi.vercel.app/">My Portifolio</a> </h4>
 
 <hr>
-<h4>I'm open to jobs,interships or freelance services in this area .</h4>
+<h4>I'm open to jobs,interships or freelance services on Software Deveploment area.</h4>
 
