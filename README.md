@@ -34,7 +34,7 @@ My Cell Phone Number: +55 (75) 99245-9695
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/lucas-gomes-77892a343/">
 <img width="60px" src="https://store-images.s-microsoft.com/image/apps.46485.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.df3dbdf7-e6b9-4d2a-a5ad-3b91e430d172"></a>
 
-<h4>Or click here to visit my portifolio: <a href="https://portifolio-project-xi.vercel.app/">My Portifolio</a> </h4>
+<h4>Or click here to visit my portifolio: <a href="https://lucas-gomes-santana-portifolio.vercel.app/">My Portifolio</a> </h4>
 
 <hr>
 <h4>I'm open to jobs,interships or freelance services on Software Deveploment area.</h4>
