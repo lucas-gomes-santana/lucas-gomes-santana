@@ -13,8 +13,6 @@ Hi! My name is Lucas Gomes Santana. I'm a high school student who discover the w
 ### Technologies i use or i had some contact
 
 <img width="60px" src="https://skillforge.com/wp-content/uploads/2020/10/javascript.png">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65px">   <img width="70px" src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-2945110.png?f=webp">  <img width="65px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg">  <img width="95px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png"> <img width="75px" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">  <img width="130px" src="https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png"> <img width="90px" src="https://i.namu.wiki/i/vkGpBcmks1_NcJW0HUFa6jlwlM6h11B-8nxRRX4bYC703H4nLo7j4dQdRCC32gz8Q-BqRcAnQgFSXMjB8jPohg.svg">
-<br>
-<img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
 
 ****
 
