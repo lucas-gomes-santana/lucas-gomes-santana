@@ -24,7 +24,7 @@ Hi! My name is Lucas Gomes Santana. I'm a high school student who discover the w
 
 ### Make contact with me using these methods below
 
-My main email: ls8294921@gmail.com            
+My main email: lucasgomessantana259@gmail.com         
 My Cell Phone Number: +55 (75) 99245-9695  
 
 ****
