@@ -1,6 +1,6 @@
 # Lucas Gomes Santana
 
-Hi! My name is Lucas Gomes Santana. I'm a high school student who discover the world of programming and ince then, i started study about the area for my own and my objective is become a Full-Stack Developer. Searching for constant evolution with software deveploment.
+Hi! My name is Lucas Gomes Santana. I'm a self-taught developer looking for opportunities as a software development professional. I'm always studying and striving for continuous development.
 
 ****
 
