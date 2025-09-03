@@ -1,6 +1,6 @@
 # Lucas Gomes Santana
 
-Hi! My name is Lucas Gomes Santana. I'm a self-taught developer looking for opportunities as a software development professional. I'm always studying and striving for continuous development.
+Hi! My name is Lucas Gomes Santana. I'm a self-taught developer looking for opportunities as a software development professional. Always studying and striving for continuous development.
 
 ****
 
