@@ -16,13 +16,11 @@ Hi! My name is Lucas Gomes Santana. I'm a self-taught developer looking for oppo
 
 ****
 
-### My main programming languagues</h3>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-gomes-santana&layout=compact&theme=radical)
 
 ****
 
-### Make contact with me using these methods below
+### Make contact with me:
 
 My main email: lucasgomessantana259@gmail.com         
 My Cell Phone Number: +55 (75) 99245-9695  
