@@ -38,3 +38,7 @@ My Cell Phone Number: +55 (75) 99245-9695
 
 #### I'm open to jobs,interships or freelance services on Software Deveploment area.
 
+****
+
+![Visitor Count](https://profile-counter.glitch.me/lucas-gomes-santana/count.svg)
+
