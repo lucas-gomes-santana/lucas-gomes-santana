@@ -12,7 +12,7 @@ Hi! My name is Lucas Gomes Santana. I'm a self-taught developer looking for oppo
 
 ### Stacks i use or i had some contact
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,nodejs,react,java,spring,git,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,nodejs,express,react,git,mysql,mongodb)](https://skillicons.dev)
 
 ****
 
