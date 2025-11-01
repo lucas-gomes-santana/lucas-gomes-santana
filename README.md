@@ -16,7 +16,7 @@ Hi! My name is Lucas Gomes Santana. I'm a self-taught developer looking for oppo
 
 ****
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-gomes-santana&layout=compact&theme=radiical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-gomes-santana&layout=compact&theme=radical)
 
 ****
 
