@@ -4,12 +4,6 @@ Hi! My name is Lucas Gomes Santana. I'm a self-taught developer looking for oppo
 
 ****
 
-### My GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=lucas-gomes-santana&show_icons=true&theme=radical)
-
-****
-
 ### Stacks that I use or already had some contact
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,nodejs,express,react,git,mysql,mongodb)](https://skillicons.dev)
