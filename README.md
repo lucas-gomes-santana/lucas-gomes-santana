@@ -30,7 +30,8 @@ My Cell Phone Number: +55 (75) 99245-9695
 
 ****
 
-<img src="https://komarev.com/ghpvc/?username=meuusuario&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=lucas-gomes-santana&style=flat-square" alt="Profile views" />
 
+****
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-gomes-santana&show_icons=true&locale=en&layout=compact" alt="lucas-gomes-santana" /></p>
